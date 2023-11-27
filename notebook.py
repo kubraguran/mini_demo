@@ -49,19 +49,3 @@ def mynotes():
     
     
 mynotes()
-
-
-# def ask():
-#     return input("devam mi degil mi y or n")
-
-# def deneme():
-#     while True:
-#         val = ask()
-#         if val == 'y':
-#             print("denediniz")
-
-#             break
-
-
-
-# deneme()
